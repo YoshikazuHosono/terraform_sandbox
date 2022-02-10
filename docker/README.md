@@ -11,6 +11,8 @@ terraform apply
 
 docker ps
 
+curl http://localhost:8000/ -I
+
 terraform destroy
 ```
 

@@ -9,7 +9,6 @@ brew install hashicorp/tap/terraform
 # check
 terraform -version
 
-
 # to update
 brew upgrade hashicorp/tap/terraform
 
