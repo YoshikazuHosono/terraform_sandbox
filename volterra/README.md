@@ -1,9 +1,9 @@
-# terraform - docker
+# terraform - volterra
 
 ## getting started
 
 ```sh
-cd docker
+cd volterra
 
 terraform init
 
@@ -20,4 +20,4 @@ terraform destroy
 
 ## ref
 
-- <https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/docker-get-started>
+- Volterra Terraform doc <https://registry.terraform.io/providers/volterraedge/volterra/latest/docs>
